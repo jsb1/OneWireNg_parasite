@@ -1,4 +1,4 @@
-# OneWireNg
+# OneWireNg 
 
 [![Arduino builds](https://github.com/pstolarz/OneWireNg/actions/workflows/arduino-builds.yml/badge.svg?branch=master)](https://github.com/pstolarz/OneWireNg/actions/workflows/arduino-builds.yml)
 [![PlatformIO builds](https://github.com/pstolarz/OneWireNg/actions/workflows/platformio-builds.yml/badge.svg?branch=master)](https://github.com/pstolarz/OneWireNg/actions/workflows/platformio-builds.yml)
@@ -8,6 +8,8 @@
 [![Unit tests](https://github.com/pstolarz/OneWireNg/actions/workflows/ut.yml/badge.svg?branch=master)](https://github.com/pstolarz/OneWireNg/actions/workflows/ut.yml)
 [![PlatformIO Registry](https://badges.registry.platformio.org/packages/pstolarz/library/OneWireNg.svg)](https://registry.platformio.org/libraries/pstolarz/OneWireNg)
 <br>
+
+This fork tries to improve parasite mode
 
 This is an 1-wire service library, intended as an alternative for the classic
 [OneWire](https://github.com/PaulStoffregen/OneWire) library. The library
